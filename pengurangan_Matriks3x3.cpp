@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-//Penjumlahan 2 matriks
+//Pengurangan 2 matriks
 	int matriks1[3][3];
 	int matriks2[3][3];
 	int hasil[3][3];
