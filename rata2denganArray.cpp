@@ -14,7 +14,7 @@ int main(){
 	cout<<"        oleh Roy Rafles M.P         "<<endl;
 	cout<<"===================================="<<endl<<endl;
 	
-	//inputan 
+	//input
 	cout<<"Masukkan Banyak Data : ";
 	cin>>n;
 	cout<<"Masukkan "<<n<<" Data (setiap masukkan 1 data klik enter) : ";
