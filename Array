@@ -10,3 +10,10 @@ Pengertian Array :
 Antara satu Variabel dengan variabel lain di dalam array dibedakan berdasarkan Subscript
 Sebuah subscript berupa bilangan di dalam Kurung siku […]
 Melalui subscript inilah masing-masing elemen array dapat diakses.
+
+Terdapat dua cara umum dalam mendeklarasikan variabel array :
+
+    Mendeklarasikan variabel array, tanpa memasukkan nilai ke dalam variabel tersebut:
+    int nomor [6] ;
+    Mendeklarasikan variabel array, dengan memasukkan nilanya sekaligus ke dalam variabel tersebut:
+    int nomor [6] = { 10, 14, 28, 20, 23, 9 } ;
