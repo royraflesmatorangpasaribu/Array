@@ -3,6 +3,7 @@ Materi Array
 Sumber : Universitas Muria Kudus, Fakultas Teknik Universitas Muria Kudus Program Studi Sistem Informasi , Teknik Informasi , Pemrograman , C++ , Php , Java , Visual Basic , Database Sql Server 2005.
 https://materikuliah.tigaputri.asia/pengertian-array-dalam-pemrograman-c/
 
+
 Pengertian Array :
     Array merupakan tipe data terstruktur yang berguna untuk menyimpan sejumlah data yang bertipe sama. Bagian yang menyusun array disebut elemen array(isi), 
     yang masing-masing elemen dapat diakses tersendiri melalui indeks array.
@@ -10,6 +11,7 @@ Pengertian Array :
 Antara satu Variabel dengan variabel lain di dalam array dibedakan berdasarkan Subscript
 Sebuah subscript berupa bilangan di dalam Kurung siku […]
 Melalui subscript inilah masing-masing elemen array dapat diakses.
+
 
 Terdapat dua cara umum dalam mendeklarasikan variabel array :
 
