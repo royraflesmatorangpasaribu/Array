@@ -25,6 +25,7 @@ int main(){
 	if(cek==false){
 		cout<<"data tidak ditemukan";
 		
+		//karena menggunakan fungsi main()
 		return 0;
 	}
 }
