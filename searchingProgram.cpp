@@ -9,6 +9,7 @@
 using namespace std;
 
 int main(){
+	//deklarasi variabel
 	int arr[5]={2,3,4,5,5};
 	int cari;
 	bool cek = false;
