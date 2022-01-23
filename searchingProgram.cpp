@@ -5,7 +5,7 @@
 //dequential search -> membandingkan  data/angka yang di cari dengan seluruh elemen
 //pada suatu data secara satu persatu
 
-#include <iostream>
+#include<iostream>
 using namespace std;
 
 int main(){
