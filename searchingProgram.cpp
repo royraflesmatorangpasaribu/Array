@@ -14,6 +14,7 @@ int main(){
 	int cari;
 	bool cek = false;
 	
+	//input
 	cout<<"angka yang ingin dicari : ";
 	cin>>cari;
 	
