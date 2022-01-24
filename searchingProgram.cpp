@@ -9,8 +9,9 @@ pada suatu data secara satu persatu */
 using namespace std;
 
 int main(){
-	//deklarasi variabel
+	//array
 	int arr[5]={2,3,4,5,5};
+	//deklarasi variabel
 	int cari;
 	bool cek = false;
 	
