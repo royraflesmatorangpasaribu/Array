@@ -20,6 +20,7 @@ int main(){
 	cout<<"angka yang ingin dicari : ";
 	cin>>cari;
 	
+	//looping
 	for(int i=0; i<5; i++){
 		if(cari==arr[i]){  //apakah ... itu sama dengan ... ? jika true cetak
 			cout<<"data ditemukan pada indeks ke- "<< i+1 <<endl;
