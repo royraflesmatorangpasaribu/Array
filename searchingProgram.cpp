@@ -8,6 +8,7 @@ pada suatu data secara satu persatu */
 #include<iostream>
 using namespace std;
 
+//fungsi utama
 int main(){
 	//array
 	int arr[5]={2,3,4,5,5};
