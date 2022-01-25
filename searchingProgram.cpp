@@ -23,6 +23,7 @@ int main(){
 	//looping
 	for(int i=0; i<5; i++){
 		if(cari==arr[i]){  //apakah ... itu sama dengan ... ? jika true cetak
+			//output
 			cout<<"data ditemukan pada indeks ke- "<< i+1 <<endl;
 			cek = true;
 		}
