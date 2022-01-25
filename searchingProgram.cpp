@@ -33,5 +33,5 @@ int main(){
 		
 	}
 	//karena menggunakan fungsi main()
-		return 0;
+	return 0;
 }
