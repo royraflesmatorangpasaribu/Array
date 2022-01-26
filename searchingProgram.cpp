@@ -14,6 +14,7 @@ int main(){
 	int arr[5]={2,3,4,5,5};
 	//deklarasi variabel
 	int cari;
+	//pebgkondisian boolean
 	bool cek = false;
 	
 	//input
