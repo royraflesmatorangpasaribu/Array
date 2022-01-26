@@ -3,7 +3,8 @@ using namespace std;
 
 //fungsi utama
 int main(){
-	char nama[50] = "Roy Rafles MatorAng Pasaribu";
+	//array data nama
+	char nama[256] = "Roy Rafles MatorAng Pasaribu";
 	
 	for(char x:nama){
 		if( x== 'a'||x=='A'){
