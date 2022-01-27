@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//program dibuat oleh roy rafles matorang pasaribu
 //fungsi utama
 int main(){
 	//array data nama
