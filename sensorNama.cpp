@@ -15,7 +15,6 @@ int main(){
 		//pengkondisian di luar if
 		else{
 			cout<<x;
-			
 		}
 	}
 	return 0;
