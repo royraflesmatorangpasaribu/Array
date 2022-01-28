@@ -18,6 +18,7 @@ int main(){
 			cout<<x;
 		}
 	}
+	//karena menggunakan fungsi main()
 	return 0;
 }
 
