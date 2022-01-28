@@ -13,7 +13,7 @@ int main(){
 		if( x== 'a'|| x=='A'){
 			cout<<"*";
 		}
-		//pengkondisian di luar if
+		//pengkondisian salah
 		else{
 			cout<<x;
 		}
