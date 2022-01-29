@@ -29,6 +29,7 @@ int main(){
 			cek = true;
 		}
 	}
+	//pengkondisian jika diluar kondisi
 	if(cek==false){
 	   cout<<"data tidak ditemukan";
 		
