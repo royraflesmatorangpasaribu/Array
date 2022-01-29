@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//program 
+//program searching
 
 /* searching itu adalah salah satu teknik dalam pemrograman 
 untuk mencari data, apakah data tersebut ada di dalam
