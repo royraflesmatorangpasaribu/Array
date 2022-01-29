@@ -10,8 +10,6 @@ suatu kumpulan data */
 /* dequential search -> membandingkan  data/angka yang di cari dengan seluruh elemen
 pada suatu data secara satu persatu */
 
-
-
 //fungsi utama
 int main(){
 	//array
